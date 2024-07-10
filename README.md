@@ -10,7 +10,7 @@ Python:
 - Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
 
 SQL:
-- PostgreSQL, MySQL, Clickhouse
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) PostgreSQL, MySQL, Clickhouse
 
 BI:
 - Tableau

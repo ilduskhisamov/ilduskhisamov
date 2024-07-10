@@ -7,7 +7,7 @@ I'm Juniour Data Analyst. Passionate about dashboards creation, product/marketin
 Data Analyse:
 
 Python: 
-- Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
+[X] Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
 
 SQL:
 - PostgreSQL, MySQL, Clickhouse

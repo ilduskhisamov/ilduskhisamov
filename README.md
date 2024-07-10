@@ -7,6 +7,6 @@ I'm Juniour Data Analyst. Passionate about dashboards creation, product/marketin
 Languages and Tools:
 
 - Python - Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
-- SQL: PostgreSQL, MySQL, Clickhouse
-- BI: Tableau
-- Tools: Jupiter, Git, Docker, Redash, DBeaver
+- SQL - PostgreSQL, MySQL, Clickhouse
+- BI-  Tableau
+- Tools - Jupiter, Git, Docker, Redash, DBeaver

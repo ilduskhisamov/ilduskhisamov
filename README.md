@@ -6,14 +6,10 @@ I'm Juniour Data Analyst. Passionate about dashboards creation, product/marketin
 
 Data Analyse:
 
-Python: 
-- [X] Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
+- [X] Python: Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
 
-SQL:
-- PostgreSQL, MySQL, Clickhouse
+- [X] SQL: PostgreSQL, MySQL, Clickhouse
 
-BI:
-- Tableau
+- [X] BI: Tableau
  
-Tools:
-- Jupiter, Git, Docker, Redash
+- [X] Tools: Jupiter, Git, Docker, Redash, DBeaver

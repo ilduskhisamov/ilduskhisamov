@@ -8,5 +8,5 @@ Languages and Tools:
 
 - Python - Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly
 - SQL - PostgreSQL, MySQL, Clickhouse
-- Dashboards -  Tableau
-- Tools - Jupiter, Git, Docker, Redash, DBeaver
+- Dashboards -  Tableau, PowerBI, Yandex DataLens
+- Tools - Jupiter, Collab, Git, Docker, Redash, DBeaver, Яндекс.Метрика
